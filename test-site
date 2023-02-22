@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Моя тестовая страница</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  </head>
+  <body>
+    <img src="images/boost-creativity-in-eLearning.png" alt="в папке имаджес, то есть глубже html файла">
+    <img src="boost-creativity-in-eLearnin2.png" alt="на одном уровне с html файлом">
+    <img src="../boost-creativity-in-eLearning3.png" alt="Выше html файла на уровень">
+    <h1>Что такое креативность</h1>
+<p>Креативность, или творческие способности — это умение нешаблонно мыслить, находить новые решения, генерировать идеи. Креативность — это интеллект + воображение. Благодаря интеллекту человек способен думать, анализировать информацию, понимать причинно-следственные связи, делать выводы. Воображение позволяет выйти за рамки привычных шаблонов, отбросить стереотипы, увидеть новые пути решения задач.</p>
+<p>Американский психолог и исследователь креативности Эллис Пол Торренс выделил составляющие творческого мышления, по уровню развития которых можно судить о степени креативности конкретного человека.</p>
+<p>Mozilla, мы являемся мировым сообществом</p>
+<ul>
+  <li>технологов</li>
+  <li>мыслителей</li>
+  <li>строителей</li>
+</ul>
+<p>работающих вместе ... </p>
+
+<a href="https://www.mozilla.org/ru/about/manifesto/details/">Манифест Mozilla</a>
+<button>Change user</button>
+<script src="scripts/main.js"></script>
+
+  </body>
+</html>
